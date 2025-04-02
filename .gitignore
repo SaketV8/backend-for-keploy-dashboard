@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+main
+
+# Output of build process
+bin/
+build/
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# SQLite Database files (if using SQLite)
+*.db
+*.sqlite3
+
+#env variable
+.env
