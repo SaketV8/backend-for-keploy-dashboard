@@ -41,6 +41,9 @@
 
 ## :jigsaw: Demonstration Video
 
+> [!TIP]
+> [Direct Video (drive link)](https://drive.google.com/file/d/1R2hW98Zwq-dTRq-22bukPcbumY74GASZ/view?usp=drive_link)
+
 https://github.com/user-attachments/assets/b042935a-6503-4681-adc1-0c48cdef3e2d
 
 
